@@ -1,0 +1,2 @@
+conda install conda-forge::langchain streamlit langchain-community langchain-chroma -y
+pip install langchain_ollama pypdf docx2txt

@@ -1,0 +1,1 @@
+pip install streamlit langchain_community langchain langchain_chroma langchain_ollama langchain_core pypdf docx2txt
