@@ -184,7 +184,7 @@ Age-and-Sex-Specific-Questionnaire-Chatbot/
 
 If you use this work, please cite:
 
-> Kim DY, Sim H, Choi J, et al. *Age- and Sex-Specific Autism Screening: Machine Learning-Based Reduction and Conversational Agent Integration* (2026)
+> Kim DY, Sim H, Choi J, et al. *Age and Sex Specific Autism Screening Using Machine Learning Reduction and Conversational Agent Integration* (2026)
 
 ---
 
