@@ -36,7 +36,7 @@ This project addresses all three challenges through **stratified feature reducti
 | 31–48 months | SCQ, SRS-2, BeDevel-I, BeDevel-P |
 
 ### Classification Pipeline
-
+![Image](./Figures/Figure2.png)
 A **two-stage hierarchical classification** framework was implemented:
 
 - **Stage 1**: Typically Developing (TD) vs. Others (HR + ASD)
