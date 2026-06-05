@@ -72,7 +72,7 @@ Standard questionnaires were reduced to **8–15 critical items per subgroup** w
 
 ### Architecture
 
-![Image](https://github.com/user-attachments/assets/61ef9f98-ac5a-422d-a730-d3c9addc0cde)
+![Image](Figures/Figure1.png)
 
 The agent is powered by a **Retrieval-Augmented Generation (RAG)** architecture using the **gpt-oss (120B parameters)** Large Language Model. The knowledge base consists of a curated vector database with **24 clinical sources**:
 
