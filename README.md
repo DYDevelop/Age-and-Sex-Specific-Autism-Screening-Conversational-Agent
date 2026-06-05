@@ -8,7 +8,7 @@ This project is based on the research paper:
 > *"Age- and Sex-Specific Autism Screening: Machine Learning-Based Reduction and Conversational Agent Integration"*
 > Kim et al. (Seoul National University Hospital, et al.)
 
-![Image](https://github.com/user-attachments/assets/de4f6f3b-1877-42b5-9c49-30d1a4d2939e)
+![Image](./Figures/Figure1.png)
 
 Using a dataset of **1,400 children** (443 typically developing, 457 high-risk, 500 ASD) collected across **9 hospitals in South Korea**, we applied machine learning to identify age- and sex-specific screening items across four demographic subgroups (18–30 months / 31–48 months × male / female). The reduced item sets are integrated into a **Retrieval-Augmented Generation (RAG)** conversational agent that translates screening results into structured, evidence-based parental guidance — without providing a definitive medical diagnosis.
 
@@ -72,7 +72,7 @@ Standard questionnaires were reduced to **8–15 critical items per subgroup** w
 
 ### Architecture
 
-![Image](./Figures/Figure1.png)
+![Image](./Figures/Figure3.png)
 
 The agent is powered by a **Retrieval-Augmented Generation (RAG)** architecture using the **gpt-oss (120B parameters)** Large Language Model. The knowledge base consists of a curated vector database with **24 clinical sources**:
 
